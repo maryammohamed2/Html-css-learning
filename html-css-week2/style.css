@@ -1,3 +1,16 @@
 h2{
     background-color: tomato;
 }
+.centre{
+    text-align: center;
+}
+#demo{
+    color: red;
+}
+.item {
+    background-color: orange;
+    margin: 20px 80px;
+    height: 200px;
+    width: 80%;
+   
+}
